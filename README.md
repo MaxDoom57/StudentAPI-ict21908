@@ -12,21 +12,22 @@ Before starting, make sure you have:
 
 ## Clone or Create Project
 Clone your repository and open it in your IDE.
-  https://github.com/MaxDoom57/StudentAPI-ict21908.git
-  cd student-management-api
+ - https://github.com/MaxDoom57/StudentAPI-ict21908.git
+ - cd student-management-api
 
 ## Configure Database Connection
-  Edit the file: src/main/resources/application.properties
+ - Edit the file: src/main/resources/application.properties
 
 ## Run the Application
   ### Clean and install dependencies
-  mvn clean install
+ - mvn clean install
 
   ### Run the Spring Boot application
-  mvn spring-boot:run
+ - mvn spring-boot:run
 
 The backend will start at: http://localhost:8080
 
+---
 
 # API Endpoints
 
