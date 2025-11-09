@@ -5,10 +5,10 @@ This document provides instructions on how to set up, configure, and run the Stu
 # Project Setup Steps
 ## Prerequisites
 Before starting, make sure you have:
-  Java 17+ installed
-  Maven installed
-  MySQL running locally
-  An IDE such as IntelliJ IDEA or VS Code
+ - Java 17+ installed
+ - Maven installed
+ - MySQL running locally
+ - An IDE such as IntelliJ IDEA or VS Code
 
 ## Clone or Create Project
 Clone your repository and open it in your IDE.
